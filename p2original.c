@@ -27,6 +27,7 @@ int main()
   y=input();
   z=input();
   cmp(x,y,z);
+  lar = cmp(x,y,z);
   output(x,y,z,lar);
   return 0;
 }
